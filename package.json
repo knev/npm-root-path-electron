@@ -1,6 +1,6 @@
 {
   "name": "root-path-electron",
-  "version": "1.3.0",
+  "version": "1.3.3",
   "description": "Get the root path of an Electron Application",
   "main": "lib/index.js",
   "scripts": {
@@ -24,7 +24,8 @@
     "prettier-eslint": "^8.8.2"
   },
   "files": [
-    "lib"
+    "lib",
+    "index.d.ts"
   ],
   "keywords": [
     "root",
